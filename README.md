@@ -6,4 +6,6 @@ This program uses lilypond for sheet music engraving and fluidsynth for .wav to 
 
 If you encounter any issues please feel free to let us know.
 
-To use the program download the 7zip file and extract it using 7zip and run the MelodyMapper.exe file
+Download the MelodyMapper file.
+OR
+For faster download, you can download the .zip and unzip the file later.
